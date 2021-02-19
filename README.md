@@ -1,2 +1,2 @@
 # DeathAction
-When the user respawn or die, console send a command from config.
+When the user respawn or die, console send a command from config. (Request)
